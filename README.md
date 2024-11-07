@@ -21,5 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myroslavshymon&show_icons=true&locale=en" alt="myroslavshymon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myroslavshymon&" alt="myroslavshymon" /></p>
-
